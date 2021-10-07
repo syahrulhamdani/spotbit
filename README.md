@@ -1,3 +1,3 @@
 # spotbit
 
-A bitlabs' python module for Spotify API used for educational purpose.
+A python module for Spotify API for educational purpose.
